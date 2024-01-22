@@ -1,0 +1,34 @@
+.myheading{
+    color: #480ce0;
+    font-size: 45px;
+    background-color: darkolivegreen;
+}
+#three{
+    color: #e1132f;
+}
+.two{
+    color: #c011ce;
+}
+.four{
+    color: darkolivegreen;
+}
+.first{
+    background-color: blueviolet;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.test{
+    display: flex;
+    background-color: lightgrey;
+    padding: 20px;
+}
+.paragraph1{
+    margin-left: 40px;
+}
+.main{
+    display: flex;
+}
+.
